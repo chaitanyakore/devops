@@ -1,0 +1,44 @@
+What is devops  
+https://theagileadmin.com/what-is-devops/
+
+languages 
+python, shell, html, php, java script
+
+
+CI tools
+Jenkins, teamcity, gitlab CI
+
+CD tools
+docker, ansible,
+
+configuration management tools
+ansible, cheff, puppet, salt stack
+
+orchestration tools
+docker swarm ,  kubernetes
+https://upcloud.com/community/stories/docker-swarm-vs-kubernetes-comparison-of-the-two-giants-in-container-orchestration/
+
+
+scm
+git , svn , gitlab, bitbucket rhodcode
+
+virtualization tools
+vmware, proxmox, zen citrix
+
+artifactory tool
+jfrog, nexus
+
+container registry
+harbor, docker hub, gitlab
+
+ticketing tools
+jira, kayako
+
+pre testing tools
+sonarqube
+
+log management
+elk stack, grafna, splunk
+
+monitoring tools
+nagios, zabbix, omd
