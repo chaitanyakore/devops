@@ -9,13 +9,13 @@ CI tools
 Jenkins, teamcity, gitlab CI
 
 CD tools
-docker, ansible,
+docker, ansible, vagrant
 
 configuration management tools
 ansible, cheff, puppet, salt stack
 
 orchestration tools
-docker swarm ,  kubernetes
+docker swarm ,  kubernetes , terraform
 https://upcloud.com/community/stories/docker-swarm-vs-kubernetes-comparison-of-the-two-giants-in-container-orchestration/
 
 
@@ -42,3 +42,6 @@ elk stack, grafna, splunk
 
 monitoring tools
 nagios, zabbix, omd
+
+cloud platform
+aws, gcp
